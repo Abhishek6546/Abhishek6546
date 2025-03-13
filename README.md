@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **abhishekk11603@gmail.com**
 
+- ⚡ Fun fact **Code. Debug. Deploy. Repeat.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-kumar-83bb9a245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-83bb9a245" height="30" width="40" /></a>
