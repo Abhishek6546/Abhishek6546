@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek6546&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek6546" /> </p>
 
 - 🌱 I’m currently learning **FrameWorks,Courses etc**
 
-- 👨‍💻 All of my projects are available at [https://my-port-folio-phi.vercel.app/](https://my-port-folio-phi.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://my-port-folio-phi.vercel.app/](https://abhishek-kumar919.vercel.app/))
 
 - 📫 How to reach me **abhishekk11603@gmail.com**
 
