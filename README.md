@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **FrameWorks,Courses etc**
 
-- 👨‍💻 All of my projects are available at ([https://my-port-folio-phi.vercel.app/](https://abhishek-kumar919.vercel.app/))
 
 - 📫 How to reach me **abhishekk11603@gmail.com**
 
